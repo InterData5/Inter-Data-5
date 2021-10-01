@@ -1,0 +1,66 @@
+@page
+@model Presentacion.Pages.CrudControles.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-secondary"><img src="~/Media/Agregar.png"> Add Control</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].Version)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].Fabricante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].PrecioVenta)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Controles[0].PrecioCompra)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Controles) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Version)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fabricante)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioVenta)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecioCompra)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-secondary"><img src="~/Media/Editar.png"> Edit</a>
+                <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-secondary"> Details</a>
+                <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-secondary"><img src="~/Media/Eliminar.png"> Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

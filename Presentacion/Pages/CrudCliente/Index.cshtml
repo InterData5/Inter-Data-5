@@ -1,0 +1,72 @@
+@page
+@model Presentacion.Pages.CrudCliente.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Clientes</h1>
+
+<p>
+    <a asp-page="Create" class="btn btn-secondary"><img src="~/Media/Agregar.png"> Add Cliente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Apellido)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Cedula)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Direccion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].Telefono)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente[0].User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Cliente) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cedula)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefono)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-secondary"><img src="~/Media/Editar.png"> Edit</a>
+                <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-secondary"> Details</a>
+                <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-secondary"><img src="~/Media/Eliminar.png"> Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

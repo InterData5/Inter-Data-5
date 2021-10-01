@@ -1,0 +1,60 @@
+@page
+@model Presentacion.Pages.CrudControles.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Controles</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Controles.Tipo" class="control-label"></label>
+                <input asp-for="Controles.Tipo" class="form-control" />
+                <span asp-validation-for="Controles.Tipo" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Controles.Id" />
+            <div class="form-group">
+                <label asp-for="Controles.Nombre" class="control-label"></label>
+                <input asp-for="Controles.Nombre" class="form-control" />
+                <span asp-validation-for="Controles.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Controles.Version" class="control-label"></label>
+                <input asp-for="Controles.Version" class="form-control" />
+                <span asp-validation-for="Controles.Version" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Controles.Fabricante" class="control-label"></label>
+                <input asp-for="Controles.Fabricante" class="form-control" />
+                <span asp-validation-for="Controles.Fabricante" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Controles.PrecioVenta" class="control-label"></label>
+                <input asp-for="Controles.PrecioVenta" class="form-control" />
+                <span asp-validation-for="Controles.PrecioVenta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Controles.PrecioCompra" class="control-label"></label>
+                <input asp-for="Controles.PrecioCompra" class="form-control" />
+                <span asp-validation-for="Controles.PrecioCompra" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

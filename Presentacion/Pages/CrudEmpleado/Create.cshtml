@@ -1,0 +1,80 @@
+@page
+@model Presentacion.Pages.CrudEmpleado.CreateModel
+
+@{
+    ViewData["Title"] = "Add Empleado";
+}
+
+<h1>Create</h1>
+
+<h4>Empleado</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Empleado.CodigoEmpleado" class="control-label"></label>
+                <input asp-for="Empleado.CodigoEmpleado" class="form-control" />
+                <span asp-validation-for="Empleado.CodigoEmpleado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.Sucursal" class="control-label"></label>
+                <input asp-for="Empleado.Sucursal" class="form-control" />
+                <span asp-validation-for="Empleado.Sucursal" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.rol" class="control-label"></label>
+                <select asp-for="Empleado.rol" class="form-control">
+                    <option value="">Seleccione Rol --</option>>
+                    <option value="0">Administrador Compras</option>>
+                    <option value="1">Adminitrador Ventas</option>>
+                    <option value="2">Administrador Sistema</option>>
+                    <option value="3">Vendedor</option>>
+                    <option value="4">Cliente</option>></select>
+                <span asp-validation-for="Empleado.rol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.Nombre" class="control-label"></label>
+                <input asp-for="Empleado.Nombre" class="form-control" />
+                <span asp-validation-for="Empleado.Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.Apellido" class="control-label"></label>
+                <input asp-for="Empleado.Apellido" class="form-control" />
+                <span asp-validation-for="Empleado.Apellido" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.Cedula" class="control-label"></label>
+                <input asp-for="Empleado.Cedula" class="form-control" />
+                <span asp-validation-for="Empleado.Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.User" class="control-label"></label>
+                <input asp-for="Empleado.User" class="form-control" />
+                <span asp-validation-for="Empleado.User" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Empleado.Pass" class="control-label"></label>
+                <input asp-for="Empleado.Pass" class="form-control" />
+                <span asp-validation-for="Empleado.Pass" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Empleado.AccesoReportes" /> @Html.DisplayNameFor(model => model.Empleado.AccesoReportes)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

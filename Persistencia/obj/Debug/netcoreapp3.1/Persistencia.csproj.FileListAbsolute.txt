@@ -1,0 +1,16 @@
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.deps.json
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.json
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.runtimeconfig.dev.json
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.AssemblyInfo.cs
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.csproj.CopyComplete
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.dll
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.pdb
+C:\Users\Kmilo\Desktop\Universidad\Programacion\Ciclo III\C#\ProyectoExito\Aplicacion\Persistencia\obj\Debug\netcoreapp3.1\Persistencia.genruntimeconfig.cache
