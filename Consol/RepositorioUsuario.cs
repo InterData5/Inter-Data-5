@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Dominio;
 using Persistencia;
 using System.Linq;
+
 namespace Consola
 {
     public class RepositorioUsuario : IRepositorioUsuario
