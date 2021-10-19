@@ -572,3 +572,4 @@ C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Presentacion\obj\Debug\netco
 C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.dll
 C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.pdb
 C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Presentacion\obj\Debug\netcoreapp3.1\Presentacion.genruntimeconfig.cache
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Presentacion\obj\Debug\netcoreapp3.1\Razor\Pages\Login\Layout.cshtml.g.cs
