@@ -35,6 +35,8 @@ namespace Presentacion.Pages
 
         }
 
+        [BindProperty]
+        public bool login {get;set;}
         public IActionResult OnPost()
         {
             Conexion conexion = new Conexion();
@@ -43,13 +45,18 @@ namespace Presentacion.Pages
             {
                 if (usuario.Pass.Equals(Contrasenia))
                 {
+                    login = true;
                     return RedirectToPage("../Index");
-                }else{
+                }
+                else
+                {
                     MensajeContrasenia = "Contraseña no coincide.";
                     return Page();
                 }
 
-            }else{
+            }
+            else
+            {
                 MensajeUsuario = "Usuario no encontrado.";
                 return Page();
             }

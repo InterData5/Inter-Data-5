@@ -1,25 +1,35 @@
 using System;
 using System.Linq;
+using System.ComponentModel.DataAnnotations;
 
 namespace Dominio
 {
     public class Usuario
     {
-        public int Id {get; set;}
-        public string Nombre {get; set;}
-        public string Apellido {get; set;}
-        public string Cedula {get; set;}
-        public string User {get; set;}
-        public string Pass {get; set;}
-              
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        [Required(ErrorMessage = "Campo requerido.")]
+        [Display(Name = "Cédula")]
 
-       /* public Usuario()
-        {
-            
-        }
-        public Usuario(string Nombre, string Apellido, string Cedula, string User, string Pass)
-        {
-            
-        }*/
+        public string Cedula { get; set; }
+        [Required(ErrorMessage = "Campo requerido.")]
+        [Display(Name = "Usuario")]
+
+        public string User { get; set; }
+        [Required(ErrorMessage = "Campo requerido.")]
+        [Display(Name = "Contraseña")]
+
+        public string Pass { get; set; }
+
+
+        /* public Usuario()
+         {
+
+         }
+         public Usuario(string Nombre, string Apellido, string Cedula, string User, string Pass)
+         {
+
+         }*/
     }
 }
