@@ -2,21 +2,21 @@
 @model Presentacion.Pages.LoginModel
 @{
 }
-<h1>Create</h1>
+<h1>Login</h1>
 
-<h4>Empleado</h4>
+@* <h4>Usuario</h4> *@
 <hr />
 <div class="row">
     <div class="col-md-4">
         <form method="post">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label class="control-label"></label>
+                <label class="control-label">Usuario</label>
                 <input type="text" asp-for="us" class="form-control" />
                 <span class="text-danger">@Model.MensajeUsuario</span>
             </div>
             <div class="form-group">
-                <label class="control-label"></label>
+                <label class="control-label">Contraseña</label>
                 <input type="password" asp-for="@Model.Contrasenia" class="form-control" />
                 <span class="text-danger">@Model.MensajeContrasenia</span>
             </div>
