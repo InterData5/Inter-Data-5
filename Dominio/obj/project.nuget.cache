@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rA3FWWmKe8u8ZcTzT2HTLezKJiz5fFNU2/bfdL63jgjiPmrUrgceIdiszkzAKuIjJ85O40AJIWuF/gNDaSFcsg==",
+  "dgSpecHash": "k+jh+DGCkIwPGQp+HDduQYpMMekhVf+qU/ctI7eTkoux0TC1xudLxspDSrpukJ0mBZ/UE0n1/SFIq1nanJZkTQ==",
   "success": true,
   "projectFilePath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ANUC\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
+using System.ComponentModel.DataAnnotations;
+
+
 namespace Dominio
 {
     public class VideoJuego : Producto
     {
-        public ETipoConsola Plataforma {get;set;}
+        [Required(ErrorMessage = "Campo requerido.")]
+
+        public ETipoConsola Plataforma { get; set; }
 
     }
 }
