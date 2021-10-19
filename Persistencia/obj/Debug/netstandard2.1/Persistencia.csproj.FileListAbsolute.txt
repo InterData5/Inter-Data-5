@@ -10,3 +10,15 @@ I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Soluc
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\bin\Debug\netstandard2.1\Persistencia.deps.json
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\bin\Debug\netstandard2.1\Persistencia.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\bin\Debug\netstandard2.1\Persistencia.pdb
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\bin\Debug\netstandard2.1\Dominio.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\bin\Debug\netstandard2.1\Dominio.pdb
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.csprojAssemblyReference.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfoInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.AssemblyInfo.cs
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CoreCompileInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.csproj.CopyComplete
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Persistencia\obj\Debug\netstandard2.1\Persistencia.pdb

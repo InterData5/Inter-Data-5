@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj": {}
+    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {}
   },
   "projects": {
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj": {
+    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj",
+        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\obj\\",
+        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"

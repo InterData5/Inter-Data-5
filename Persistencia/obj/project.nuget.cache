@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XZIXKvw2/b7iu7aNxSceoPb/jAMMfR+rzuMDajjPDKDBjrT1RlM6L+tyqIDd3do25RbwVwFXVFvbqE3dlyxSsg==",
+  "dgSpecHash": "xNfojbblAwBLSrdkTgipFY9Lmdqb3yjUg2NxwBVHx+vFVAtyxG4PQrOH+YAc5u57MSKtSP5ltboJSbEnWW6xog==",
   "success": true,
-  "projectFilePath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANUC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ANUC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

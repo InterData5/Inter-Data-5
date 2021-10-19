@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S4MNRwX9KQrje+f4aEaHAlHsptKbs1jgx4rC4WFZmGxpvdwT/zZzCCmKY1bW3SAfacX8KsfpwjpkyDpncHn2bg==",
+  "dgSpecHash": "umitLSwqX0u1ox61s9uHzaZTtye9c3L8Z2zeabZDi6ZzGGzNOQe3eiUT3i3Mg8mJYWPE8cszKOwuF2FBRX3XEQ==",
   "success": true,
-  "projectFilePath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Terminal\\Terminal.csproj",
+  "projectFilePath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Terminal\\Terminal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ANUC\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ANUC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

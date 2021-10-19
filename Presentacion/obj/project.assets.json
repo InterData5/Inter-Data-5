@@ -8605,11 +8605,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Presentacion\\Presentacion.csproj",
+      "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-      "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Presentacion\\obj\\",
+      "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -8623,11 +8623,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj": {
-              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj"
+            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj"
             },
-            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\Persistencia.csproj"
+            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj"
             }
           }
         }

@@ -7,3 +7,12 @@ I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Soluc
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.1\Dominio.dll
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.csprojAssemblyReference.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.pdb

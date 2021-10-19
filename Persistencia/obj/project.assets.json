@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\Persistencia.csproj",
+      "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\Persistencia.csproj",
+      "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
       "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-      "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Persistencia\\obj\\",
+      "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj": {
-              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\ConsolasExito\\Solucion\\Dominio\\Dominio.csproj"
+            "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+              "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj"
             }
           }
         }
