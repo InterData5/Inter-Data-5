@@ -25,7 +25,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Empleado.DocumentoIdentificacion" class="control-label"></label>
-                <input asp-for="Empleado.DocumentoIdentificacion" class="form-control" required/>
+                <input asp-for="Empleado.DocumentoIdentificacion" class="form-control" required />
                 <span asp-validation-for="Empleado.DocumentoIdentificacion" class="text-danger"></span>
             </div>
             <div class="form-group">
@@ -41,10 +41,10 @@
             </div>
             <div class="form-group">
                 <label asp-for="Empleado.CodigoEmpleado" class="control-label"></label>
-                <input asp-for="Empleado.CodigoEmpleado" class="form-control" required/>
+                <input asp-for="Empleado.CodigoEmpleado" class="form-control" required />
                 <span asp-validation-for="Empleado.CodigoEmpleado" class="text-danger"></span>
             </div>
-            <div class="form-group">
+@*             <div class="form-group">
                 <label asp-for="Empleado.Sucursal" class="control-label"></label>
                 <select asp-for="Empleado.Sucursal" class="form-control">
                     <option value="value0" selected>Seleccione opción</option>
@@ -54,6 +54,12 @@
                     <option value=3>BARRANQUILLA</option>
                     <option value=4>CALDAS</option>
                 </select>
+                <span asp-validation-for="Empleado.Sucursal" class="text-danger"></span>
+            </div>
+ *@
+            <div class="form-group">
+                <label asp-for="Empleado.Sucursal" class="control-label"></label>
+                <select asp-for="Empleado.Sucursal" class="form-control" asp-items="Model.sucursalesFront"></select>
                 <span asp-validation-for="Empleado.Sucursal" class="text-danger"></span>
             </div>
             <div class="form-group">

@@ -1,0 +1,20 @@
+﻿@page
+@model Presentacion.Pages.LoginModel
+@{
+}
+<form method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label class="control-label"></label>
+        <input type="text" class="form-control" /> @*asp-for="Empleado.Nombres"
+        @* <span asp-validation-for="Empleado.Nombres" class="text-danger"></span> *@
+    </div>
+    <div class="form-group">
+        <label class="control-label"></label>
+        <input type="password" class="form-control" />
+        @* <span asp-validation-for="Empleado.Apellidos" class="text-danger"></span> *@
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Ingresar" class="btn btn-primary" />
+    </div>
+</form>

@@ -19,8 +19,24 @@ namespace Presentacion.Pages.CrudEmpleado
             _context = context;
         }
 
+        public SelectList sucursalesFront; // crear lista select para mostrar lista de sucursales en el front
+
         public IActionResult OnGet()
         {
+            //List<Sucursal> listaSucursales = _context.Sucursales.ToList(); // en caso que se cree una clase con sucursales
+            
+            List<string> listaSucursales = new List<string>();
+            
+            listaSucursales.Add("Seleccione opción");
+            listaSucursales.Add("BOGOTA");
+            listaSucursales.Add("MEDELLIN");
+            listaSucursales.Add("CALI");
+            listaSucursales.Add("BARRANQUILLA");
+            listaSucursales.Add("CALDAS");
+
+            //sucursalesFront = new SelectList(listaSucursales, nameof(Sucursales.Id), nameof(sucursalesFront.Nombre)); // usar si hay clase Sucursal con atributos Id, Nombre.
+            sucursalesFront = new SelectList(listaSucursales); 
+            
             return Page();
         }
 
