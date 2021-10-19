@@ -1,0 +1,9 @@
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\bin\Debug\netstandard2.0\Dominio.deps.json
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\bin\Debug\netstandard2.0\Dominio.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\bin\Debug\netstandard2.0\Dominio.pdb
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.csprojAssemblyReference.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfoInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.AssemblyInfo.cs
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.csproj.CoreCompileInputs.cache
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.dll
+I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\ConsolasExito\Solucion\Dominio\obj\Debug\netstandard2.0\Dominio.pdb
