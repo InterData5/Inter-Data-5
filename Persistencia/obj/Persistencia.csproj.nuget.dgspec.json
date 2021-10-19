@@ -1,36 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {}
+    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
+    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\Kmilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\obj\\",
+        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
+        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kmilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
-            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +35,6 @@
       },
       "frameworks": {
         "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
           "imports": [
             "net461",
             "net462",
@@ -58,40 +50,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj": {
+    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\Kmilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Persistencia\\obj\\",
+        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
+        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kmilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Kmilo\\Desktop\\Universidad\\Programacion\\Ciclo III\\C#\\ProyectoExito\\Aplicacion\\Dominio\\Dominio.csproj"
+              "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+                "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -104,7 +89,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -142,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
