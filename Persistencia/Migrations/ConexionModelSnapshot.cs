@@ -58,6 +58,7 @@ namespace Persistencia.Migrations
                         .HasColumnType("real");
 
                     b.Property<string>("Version")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -78,6 +79,7 @@ namespace Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Cedula")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Discriminator")
@@ -88,9 +90,11 @@ namespace Persistencia.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Pass")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("User")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
@@ -120,6 +124,7 @@ namespace Persistencia.Migrations
                     b.HasBaseType("Dominio.Producto");
 
                     b.Property<string>("CapacidadAlmacenamientoConsola")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<int>("NumeroControles")
@@ -129,9 +134,11 @@ namespace Persistencia.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("VelocidadMemoria")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("VelocidadProcesamiento")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Consolas");
@@ -162,12 +169,14 @@ namespace Persistencia.Migrations
                     b.HasBaseType("Dominio.Usuario");
 
                     b.Property<string>("Direccion")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Telefono")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasDiscriminator().HasValue("Cliente");

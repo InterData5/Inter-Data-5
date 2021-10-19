@@ -1,29 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj": {}
+    "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Presentacion\\Presentacion.csproj": {}
   },
   "projects": {
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Kmilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kmilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
           }
         },
@@ -35,6 +42,7 @@
       },
       "frameworks": {
         "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
           "dependencies": {
             "System.ComponentModel.Annotations": {
               "target": "Package",
@@ -56,33 +64,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
-        "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\obj\\",
+        "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\Persistencia.csproj",
+        "packagesPath": "C:\\Users\\Kmilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kmilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
-                "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -95,6 +110,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -132,36 +148,43 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj": {
+    "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Presentacion\\Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
         "projectName": "Presentacion",
-        "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
-        "packagesPath": "C:\\Users\\ANUC\\.nuget\\packages\\",
-        "outputPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Presentacion\\obj\\",
+        "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Presentacion\\Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Kmilo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Presentacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ANUC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Kmilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj": {
-                "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Dominio\\Dominio.csproj"
               },
-              "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "I:\\FILES\\CLOUD\\OneDrive\\Documents\\VisualStudioCode\\Workspace\\REPOS\\Inter-Data-5\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Kmilo\\Source\\Repos\\InterData5\\Inter-Data-5\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -174,6 +197,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -208,7 +232,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

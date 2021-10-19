@@ -26,3 +26,13 @@ I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.dll
 I:\FILES\CLOUD\OneDrive\Documents\VisualStudioCode\Workspace\REPOS\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.deps.json
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.dll
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\bin\Debug\netstandard2.1\Dominio.pdb
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.AssemblyInfo.cs
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.dll
+C:\Users\Kmilo\Source\Repos\InterData5\Inter-Data-5\Dominio\obj\Debug\netstandard2.1\Dominio.pdb
