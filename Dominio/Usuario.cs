@@ -22,6 +22,8 @@ namespace Dominio
 
         public string Pass { get; set; }
 
+        [Display (Name="El usuario debe cambiar la contraseña en el siguiente inicio de sesión")]
+        public bool CambioClave { get; set; }
 
         /* public Usuario()
          {
