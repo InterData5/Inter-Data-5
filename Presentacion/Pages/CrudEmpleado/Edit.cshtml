@@ -31,7 +31,8 @@
                     <option value="1">Adminitrador Ventas</option>>
                     <option value="2">Administrador Sistema</option>>
                     <option value="3">Vendedor</option>>
-                    <option value="4">Cliente</option>></select>
+                    <option value="4">Cliente</option>>
+                </select>
                 <span asp-validation-for="Empleado.rol" class="text-danger"></span>
             </div>
             <div class="form-group form-check">
@@ -64,6 +65,11 @@
                 <label asp-for="Empleado.Pass" class="control-label"></label>
                 <input asp-for="Empleado.Pass" class="form-control" />
                 <span asp-validation-for="Empleado.Pass" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Empleado.CambioClave" />@Html.DisplayNameFor(model => model.Empleado.CambioClave)
+                </label>
             </div>
             <div class="form-group">
                 <input type="submit" value="Save" class="btn btn-primary" />
